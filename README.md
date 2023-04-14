@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m an aspiring entrepreneur who geeks about Data Science<br>💬 I’m currently pursuing Computer Science with Artificial Intelligence & Machine Learning<br>🌱 I’m currently learning Business Analytics & Neural Networks<br>⚡ Fun fact I love to dance & play chess <br> 🌐 My socials : 
-  - 💻 My Personal Portfolio Link : 
+  - 💻 My Personal Portfolio Link : https://vaishnavekv.github.io/
   - 🔗 LinkedIn : https://www.linkedin.com/in/vaishnave-kv-115b3a1ba/
   - 📫 Email: vaishnave.arul@gmail.com
 <br>
