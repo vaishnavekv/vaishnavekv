@@ -1,9 +1,13 @@
 # 💫 About Me:
-🔭 I’m an aspiring entrepreneur who geeks about Data Science<br>💬 I’m currently pursuing Computer Science with Artificial Intelligence & Machine Learning<br>🌱 I’m currently learning Business Analytics & Neural Networks<br>⚡ Fun fact I love to dance & play chess
+🔭 I’m an aspiring entrepreneur who geeks about Data Science<br>💬 I’m currently pursuing Computer Science with Artificial Intelligence & Machine Learning<br>🌱 I’m currently learning Business Analytics & Neural Networks<br>⚡ Fun fact I love to dance & play chess <br> 🌐 My socials : 
+  - 💻 My Personal Portfolio Link : 
+  - 🔗 LinkedIn : https://www.linkedin.com/in/vaishnave-kv-115b3a1ba/
+  - 📫 Email: vaishnave.arul@gmail.com
+<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vaishnavearul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnave-kv-115b3a1ba/) 
+<!--## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vaishnavearul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnave-kv-115b3a1ba/) -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavekv&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
